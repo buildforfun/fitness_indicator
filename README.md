@@ -2,11 +2,13 @@
 
 1. What problem is this solving?
 ---------------------------------------
-People are terrible judge of their own fitness and one possible reason for this is that our fitness can be a hidden metric. It's hard to judge how healthy you are compared to others in your age group.
+Many people struggle to accurately assess their own fitness levels compared to others in their age group. This is because fitness can be a complex concept, making it challenging for individuals to objectively evaluate their overall health and physical condition relative to their peers.
+
 
 2. What am I building?
 ---------------------------------------
-I'm building a tool that allows users to refer to a single fitness score based on general fitness metrics.
+
+I'm building a tool that provides users with a single, comprehensive fitness score based on a range of general fitness metrics. This score will serve as a standardized reference point, allowing users to easily compare their fitness level to others and track their progress over time.
 
 Source for data:
 https://strengthlevel.com/strength-standards/push-ups/kg
@@ -14,4 +16,5 @@ https://runninglevel.com/running-times/5k-times#google_vignette
 
 3. Why the market is interesting?
 ---------------------------------------
-People are interested in their body more than ever, there are more and more health youtube channels and the whole fitness wearable market proves this.
+
+There is a growing focus on health, wellness and physical health. This is evidenced by the increase of health-focused Youtube channels and rapid growth of fitness wearable market.
